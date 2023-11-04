@@ -1,0 +1,18 @@
+{
+ 	"entity.creeper.primed": {
+ 		"category": "hostile",
+ 		"replace": "true",
+ 		"sounds": [
+ 			"custom/creeperfuse"
+ 		],
+ 		"subtitle": "subtitles.entity.creeper.primed"
+ 	},
+ 	"entity.ender_dragon.shoot": {
+ 		"category": "hostile",
+ 		"replace": "true",
+ 		"sounds": [
+ 			"custom/dragonshoot"
+ 		],
+ 		"subtitle": "subtitles.entity.ender_dragon.shoot"
+ 	}
+ }
